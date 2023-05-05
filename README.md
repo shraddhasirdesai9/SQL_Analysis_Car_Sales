@@ -2,8 +2,7 @@
 #data exploration
 #data querying 
 
-In this SQL project having only one table i.e, the car sales data table, I have done an exploratary analysis using basic SQL queries
-like Select,Where,Group by, Order by, limit,offset
+In this SQL project having only one table i.e, the car sales data table, I have done an exploratary analysis using basic SQL queries.
 
 The raw dataset was downloaded from https://www.kaggle.com/datasets/suraj520/car-sales-data
 
